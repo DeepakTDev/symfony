@@ -1,6 +1,5 @@
-# Campaigns Backend APIs
-
-This php application is build to provide APIs for marketing campaign and APIs for all the other features associated with marketing campaigns, e.g. dashboard, campaign stats, reports, campaign preview.
+# Backend APIs
+This php application is build to provide APIs for backend and APIs
 
 ## What's being installed
 * included
